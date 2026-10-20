@@ -1,5 +1,5 @@
 /* ============================================================
-   TALHA IQBAL — PORTFOLIO  |  app.js
+   MUHAMMAD TALHA IQBAL — PORTFOLIO  |  app.js
    Nav scroll-spy, card 3D tilt, projects filter + lightbox
    ============================================================ */
 

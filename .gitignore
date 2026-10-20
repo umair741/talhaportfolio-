@@ -1,0 +1,7 @@
+# Executables & installer files (GitHub 100MB limit)
+*.exe
+QoderIDEUserSetup-x64.exe
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
