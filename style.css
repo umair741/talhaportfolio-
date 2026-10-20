@@ -1788,6 +1788,24 @@ a.ci-val:hover {
   gap: 18px
 }
 
+.foot-sig {
+  font-family: 'Caveat', cursive;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--c-purple);
+  text-decoration: none;
+  display: inline-block;
+  transform: rotate(-2deg);
+  transition: transform .2s ease, color .2s ease;
+  text-shadow: 0 0 16px rgba(108, 93, 211, .25);
+  line-height: 1;
+}
+
+.foot-sig:hover {
+  color: #fff;
+  transform: rotate(0deg) scale(1.05);
+}
+
 .foot-left p {
   font-size: 12px;
   color: var(--text3)
